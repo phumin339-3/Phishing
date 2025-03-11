@@ -1,0 +1,21 @@
+[
+    {
+        "url": "https://dmarket.com/",
+        "timestamp": "2025-02-27 07:42:00",
+        "ssl_valid": true,
+        "domain_age_days": 10466,
+        "special_chars_count": 5,
+        "redirected": false,
+        "popup_detected": false,
+        "javascript_alert_detected": null,
+        "new_tabs_opened": 0,
+        "phishing_detection_results": {
+            "Google Safe Browsing": "safe",
+            "VirusTotal": "safe",
+            "OpenPhish": "safe",
+            "URLhaus API": "safe",
+            "URLhaus JSON": "safe",
+            "PhishTank": "safe"
+        }
+    }
+]
